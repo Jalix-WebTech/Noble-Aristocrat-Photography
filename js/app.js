@@ -129,9 +129,9 @@
     { src:'https://images.pexels.com/photos/16120239/pexels-photo-16120239.jpeg', cat:'events',    title:'The Reception' },
     { src:'https://images.pexels.com/photos/16935999/pexels-photo-16935999.jpeg', cat:'events',    title:'Grand Banquet' },
     { src:'https://images.pexels.com/photos/33151443/pexels-photo-33151443.jpeg', cat:'events',    title:'Evening Toast' },
-    { src:'https://images.pexels.com/photos/28446973/pexels-photo-28446973.jpeg', cat:'corporate', title:'The Executive' },
+    { src:'/assets/images/client9.jpg', cat:'corporate', title:'The Executive' },
     { src:'https://images.pexels.com/photos/15126949/pexels-photo-15126949.jpeg', cat:'corporate', title:'Boardroom' },
-    { src:'https://images.pexels.com/photos/37148345/pexels-photo-37148345.jpeg', cat:'portraits', title:'Presence' },
+    { src:'/assets/images/client1.jpg', cat:'portraits', title:'Presence' },
     { src:'https://images.pexels.com/photos/33290980/pexels-photo-33290980.jpeg', cat:'portraits', title:'The Gentleman' },
     { src:'https://images.pexels.com/photos/7095762/pexels-photo-7095762.jpeg',   cat:'products',  title:'Timepiece' },
     { src:'https://images.pexels.com/photos/16440585/pexels-photo-16440585.jpeg', cat:'products',  title:'Craftsmanship' }
@@ -215,7 +215,7 @@
   /* ============ 12. WHATSAPP FLOATING BUTTON ============ */
   document.getElementById('waBtn').addEventListener('click', () => {
     const msg = encodeURIComponent('Hello Noble Aristocrat Photography! I would love to learn more about your luxury photography services.');
-    window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${msg}`, '_blank');
+    window.open(`https://wa.me/${9018854479}?text=${msg}`, '_blank');
   });
 
   /* ============ 13. FOOTER YEAR ============ */
