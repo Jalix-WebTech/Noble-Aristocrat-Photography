@@ -18,9 +18,9 @@
 
   // Knowledge base: each entry has trigger keywords + a crafted reply.
   const KB = [
-    { k:['price','pricing','cost','rate','package','quote'], a:'Our bespoke packages begin at $2,500 for portrait sessions and $6,500 for full wedding coverage. Every commission is tailored — share your date in the Booking section for a precise quote. 💎' },
+    { k:['price','pricing','cost','rate','package','quote'], a:'Our bespoke packages begin at ₦10,000 for portrait sessions and ₦50,000 for full wedding coverage. Every commission is tailored — share your date in the Booking section for a precise quote. 💎' },
     { k:['book','booking','reserve','schedule','appointment'], a:'Booking is effortless: scroll to the Booking section, fill in your details, and we\'ll continue instantly on WhatsApp. Shall I take you there? Just tap "Book" in the menu. 📅' },
-    { k:['wedding','marriage','bride','groom'], a:'Our wedding artistry includes full-day cinematic coverage, a second photographer, an online gallery and a museum-grade album. Packages start at $6,500. 💍' },
+    { k:['wedding','marriage','bride','groom'], a:'Our wedding artistry includes full-day cinematic coverage, a second photographer, an online gallery and a museum-grade album. Packages start at ₦15,000. 💍' },
     { k:['service','services','offer','do you'], a:'We specialise in Weddings, Events, Portraits, Product, Commercial and Drone photography — each delivered with luxury craftsmanship. Which interests you?' },
     { k:['drone','aerial'], a:'Yes! Our licensed drone team captures breathtaking aerial cinematography for venues, estates and events. 🚁' },
     { k:['contact','phone','email','call','reach'], a:'You can reach us at +1 (555) 014-2090 or hello@noblearistocrat.com. Our Mayfair studio welcomes visits by appointment. 📞' },
